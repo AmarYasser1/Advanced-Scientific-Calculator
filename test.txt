@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Fuck bug test
 Amar Yasser (local)
+=======
+Fuck second try
+>>>>>>> Stashed changes
